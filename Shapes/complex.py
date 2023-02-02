@@ -14,10 +14,11 @@ class Complex(Calc):
         :return: dictionary with all kinds of shapes
         """
         try:
+            proper_shapes=self.clean_duplicates(shapes)
             # format for dict to return
             result = [{"triangles": []}, {"rectangles": []}, {"squares": []}]
             # checking what kind of shape is
-            for shape in shapes:
+            for shape in proper_shapes:
                 # if is triangle?
                 if (len(shape)) == 3:
                     if (self.is_rectangle(shape)):
