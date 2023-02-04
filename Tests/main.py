@@ -1,6 +1,10 @@
 import os
-from Shapes.complex import Complex
-from dotenv import load_dotenv
+import pytest
+
+from Tests import test_complex
+from Tests.test_complex import *
+
+
 
 if __name__ == '__main__':
-    load_dotenv('.env.test')
+    pytest.main(['test_complex.py','test_calc.py','test_detect.py'])

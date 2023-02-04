@@ -26,3 +26,171 @@ Actual: 12 Expected: 12
     
 Actual: 6.0 Expected: True
  
+02/04/2023 01:43:26PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 01:43:26PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:43:26PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:43:26PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 
+02/04/2023 01:50:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 01:50:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:50:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:50:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 
+02/04/2023 01:52:05PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 01:52:05PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:52:05PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 01:52:05PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 
+02/04/2023 03:05:34PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 03:05:34PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:05:34PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:05:34PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 
+02/04/2023 03:05:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 03:05:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:05:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:05:52PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 
+02/04/2023 03:07:01PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_perimeter
+    Description: Testing counting rectangle perimeter
+    
+Actual: 16 Expected: 16
+ 
+02/04/2023 03:07:01PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_rectangle_area
+    Description: Testing counting rectangle area
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:07:01PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_perimeter
+    Description: Testing counting triangle perimeter
+    
+Actual: 12 Expected: 12
+ 
+02/04/2023 03:07:01PM __calc__ INFO: 
+    Name: Artiom
+    Function Name: test_triangle_area
+    Description: Testing counting triangle area
+    
+Actual: 6.0 Expected: True
+ 

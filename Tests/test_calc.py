@@ -21,7 +21,7 @@ def calc():
     return Calc()
 
 
-@pytest.mark.test_rectangle_perimeter
+@pytest.mark.rectangle_perimeter
 def test_rectangle_perimeter(calc):
     """
     Name: Artiom

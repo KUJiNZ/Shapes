@@ -89,3 +89,129 @@ Actual: True Expected: True
     
 Actual: True Expected: True
  
+02/04/2023 01:43:26PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:43:26PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:43:26PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:50:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:50:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:50:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:52:05PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:52:05PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 01:52:05PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:34PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:34PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:34PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:05:52PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:07:01PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:07:01PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:07:01PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 

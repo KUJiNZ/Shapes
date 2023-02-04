@@ -1,0 +1,197 @@
+02/04/2023 12:29:41PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:29:41PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 12:33:21PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:33:21PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 12:37:01PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:37:01PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 12:37:01PM __complex__ ERROR: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    'function' object has no attribute 'shape'
+ 
+Traceback (most recent call last):
+  File "D:\PythonRepos\ClassPython\Tests\test_complex.py", line 33, in test_shape
+    x = complex.shape(shapes)
+        ^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'shape'
+02/04/2023 12:38:17PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:38:17PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 12:38:17PM __complex__ ERROR: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    'function' object has no attribute 'shape'
+ 
+Traceback (most recent call last):
+  File "D:\PythonRepos\ClassPython\Tests\test_complex.py", line 33, in test_shape
+    x = complex.shape(shapes)
+        ^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'shape'
+02/04/2023 12:38:37PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:38:37PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 12:52:16PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:53:24PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 12:53:24PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 01:43:26PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 01:43:26PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 01:50:52PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 01:50:52PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 01:52:05PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 01:52:05PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 03:05:34PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 03:05:34PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 03:05:52PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 03:05:52PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/04/2023 03:07:01PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/04/2023 03:07:01PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
