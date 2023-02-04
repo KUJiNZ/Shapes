@@ -215,3 +215,24 @@ Actual: True Expected: True
     
 Actual: True Expected: True
  
+02/04/2023 03:08:40PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:08:40PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 03:08:40PM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
