@@ -1,9 +1,10 @@
 from Shapes.detect import Detect
 import math
+
+
 class Calc(Detect):
     def __init__(self):
         super().__init__()
-
 
     def rectangle_perimeter(self, ls):
         """
@@ -13,12 +14,11 @@ class Calc(Detect):
         :param ls: list of shape parameters
         :return: perimeter
         """
-        if(self.is_rectangle(ls)):
+        if (self.is_rectangle(ls)):
             return sum(ls)
-        if(self.is_square(ls)):
+        if (self.is_square(ls)):
             return sum(ls)
         raise Exception("This is not a rectangle or square!")
-
 
     def rectangle_area(self, ls):
         """
@@ -29,15 +29,14 @@ class Calc(Detect):
         :return: area
         """
         i = 1
-        if(self.is_rectangle(ls)):
+        if (self.is_rectangle(ls)):
             for n in ls:
-                if ls[i] != n and i <= len(ls)-1:
-                    return ls[i]*n
-                i+=1
-        if(self.is_square(ls)):
-            return ls[0]*ls[1]
+                if ls[i] != n and i <= len(ls) - 1:
+                    return ls[i] * n
+                i += 1
+        if (self.is_square(ls)):
+            return ls[0] * ls[1]
         raise Exception("This is not a rectangle or square!")
-
 
     def triangle_perimeter(self, ls):
         """
@@ -48,11 +47,9 @@ class Calc(Detect):
         :return: perimeter
         """
         i = 1
-        if(self.is_triangle(ls)):
+        if (self.is_triangle(ls)):
             return sum(ls)
         raise Exception("This is not a triangle!")
-
-
 
     def triangle_area(self, ls):
         """
@@ -62,7 +59,7 @@ class Calc(Detect):
         :param ls: list of shape parameters
         :return: area
         """
-        if(self.is_triangle(ls)):
-            semi = self.triangle_perimeter(ls)/2
+        if (self.is_triangle(ls)):
+            semi = self.triangle_perimeter(ls) / 2
             return math.sqrt(semi * (semi - ls[0]) * (semi - ls[1]) * (semi - ls[2]))
         raise Exception("This is not a triangle!")

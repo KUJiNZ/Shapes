@@ -1,0 +1,91 @@
+02/04/2023 11:37:50AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:41:21AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:41:21AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:41:21AM __detect__ ERROR: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    'Detect' object has no attribute 'test_is_triangle'
+ 
+Traceback (most recent call last):
+  File "D:\PythonRepos\ClassPython\Tests\test_detect.py", line 68, in test_is_triangle
+    x = detect.test_is_triangle(shape)
+        ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Detect' object has no attribute 'test_is_triangle'
+02/04/2023 11:42:18AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:42:18AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:42:18AM __detect__ ERROR: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    malformed node or string: None
+ 
+Traceback (most recent call last):
+  File "D:\PythonRepos\ClassPython\Tests\test_detect.py", line 67, in test_is_triangle
+    shape = ast.literal_eval(os.getenv('T'))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deade\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 110, in literal_eval
+    return _convert(node_or_string)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deade\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 109, in _convert
+    return _convert_signed_num(node)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deade\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 83, in _convert_signed_num
+    return _convert_num(node)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deade\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 74, in _convert_num
+    _raise_malformed_node(node)
+  File "C:\Users\deade\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 71, in _raise_malformed_node
+    raise ValueError(msg + f': {node!r}')
+ValueError: malformed node or string: None
+02/04/2023 11:44:16AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_rectangle
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:44:16AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_rectangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
+02/04/2023 11:44:16AM __detect__ INFO: 
+    Name: Artiom
+    Function Name: is_triangle
+    Description: Testing if shape is_square
+    
+Actual: True Expected: True
+ 
