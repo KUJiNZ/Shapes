@@ -14,9 +14,9 @@ class Calc(Detect):
         :param ls: list of shape parameters
         :return: perimeter
         """
-        if (self.is_rectangle(ls)):
+        if self.is_rectangle(ls):
             return sum(ls)
-        if (self.is_square(ls)):
+        if self.is_square(ls):
             return sum(ls)
         raise Exception("This is not a rectangle or square!")
 
@@ -29,12 +29,12 @@ class Calc(Detect):
         :return: area
         """
         i = 1
-        if (self.is_rectangle(ls)):
+        if self.is_rectangle(ls):
             for n in ls:
                 if ls[i] != n and i <= len(ls) - 1:
                     return ls[i] * n
                 i += 1
-        if (self.is_square(ls)):
+        if self.is_square(ls):
             return ls[0] * ls[1]
         raise Exception("This is not a rectangle or square!")
 
@@ -47,7 +47,7 @@ class Calc(Detect):
         :return: perimeter
         """
         i = 1
-        if (self.is_triangle(ls)):
+        if self.is_triangle(ls):
             return sum(ls)
         raise Exception("This is not a triangle!")
 
@@ -59,7 +59,7 @@ class Calc(Detect):
         :param ls: list of shape parameters
         :return: area
         """
-        if (self.is_triangle(ls)):
+        if self.is_triangle(ls):
             semi = self.triangle_perimeter(ls) / 2
             return math.sqrt(semi * (semi - ls[0]) * (semi - ls[1]) * (semi - ls[2]))
         raise Exception("This is not a triangle!")

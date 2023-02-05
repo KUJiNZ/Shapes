@@ -223,3 +223,31 @@ Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 
     
 Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
  
+02/05/2023 09:30:56AM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/05/2023 09:30:56AM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
+02/05/2023 10:19:45PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_shape
+    Description: Testing if function gets list of dictionary of shapes and returning proper shapes dictionary
+    
+Actual: [{'triangles': []}, {'rectangles': [{'sides': [2, 6, 2, 6], 'area': 12, 'perimeter': 16}]}, {'squares': [{'sides': [4, 4, 4, 4], 'area': 16, 'perimeter': 16}]}] Expected: is list of and x is not None
+ 
+02/05/2023 10:19:45PM __complex__ INFO: 
+    Name: Artiom
+    Function Name: test_clean_duplicates
+    Description: Testing if function gets list of dictionary of shapes and cleans dups
+    
+Actual: [[2, 6, 2, 6], [4, 4, 4, 4]] Expected: [[2, 6, 2, 6], [4, 4, 4, 4]] 
+ 
